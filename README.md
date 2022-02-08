@@ -2,8 +2,7 @@
 
 ## Table Of Contents
 
-- [21 MERN: Book Search Engine](#21-mern-book-search-engine)
-  - [Table Of Contents](#table-of-contents)
+
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -46,7 +45,7 @@ There is no test available for this app.
 ## Links
 
 Github Link: https://github.com/GrilloGG/book-search-engine
-Heroku Link:
+Heroku Link:https://week21-book-search.herokuapp.com/
 
 ## Questions
 
